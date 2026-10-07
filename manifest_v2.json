@@ -1,0 +1,36 @@
+{
+  "item": {
+    "id": "com.jpf.wrist.descend100",
+    "restype": "quick_app",
+    "name": "下100层",
+    "description": "向下闯关的竖井速降小游戏：倾斜手腕或触控左右移动，在普通、移动、易碎和传送平台之间寻找落脚点，躲开尖刺与不断逼近的天花板，挑战抵达第100层。支持暂停、重开，以及本地最高层数和游玩次数记录。免费、离线可玩，无广告、无内购。本次仅申报小米手环9 Pro，已完成该尺寸原生模拟器的倾斜、触控、暂停重开和存档验证；其他机型暂未适配。",
+    "preview": [
+      "media/preview-home.png",
+      "media/preview-play.png",
+      "media/preview-result.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover-illustrated-v1.jpg",
+    "author": [
+      {
+        "name": "Jip79078",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "0.5.0",
+      "file_name": "downloads/descend100-0.5.0.rpk",
+      "versionCode": 11,
+      "updatelogs": [
+        {
+          "version": "0.5.0",
+          "content": "首发版本：倾斜/触控操控，挑战下降100层。\n加入移动、易碎、传送和尖刺平台，以及追赶的尖刺天花板。\n支持暂停继续、重开和本地最高层数记录。\n仅适配小米手环9 Pro，已完成原生模拟器验证。免费、离线，无广告、无内购。"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
