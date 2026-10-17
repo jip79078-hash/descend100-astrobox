@@ -180,21 +180,18 @@
           "content": "新增REDMI Watch 5/6的432×514专用适配，当前版本仅提供触控操控。\n重排菜单、HUD、结算卡片和退出按钮；保留无限下降、暂停重开及本地纪录。\n仅完成官方Vela通用镜像对应尺寸的原生模拟器验证，未进行REDMI Watch 5/6真机测试；兼容性、帧率及耗电需用户反馈。"
         }
       ]
+    },
+    "xmws5": {
+      "version": "0.8.4",
+      "file_name": "downloads/descend100-watch-s5-0.8.4.rpk",
+      "versionCode": 19,
+      "updatelogs": [
+        {
+          "version": "0.8.4",
+          "content": "新增Xiaomi Watch S5的480×480圆屏适配，HUD和按钮避开圆形边缘。\n支持倾斜与触控，保留无限下降、暂停重开、本地纪录和直接退出。\n仅完成官方Vela通用镜像对应尺寸的原生模拟器验证，未进行Xiaomi Watch S5真机测试；安装、倾斜方向、亮屏、帧率及耗电需用户反馈。"
+        }
+      ]
     }
   },
-  "ext": {
-    "trialDownloads": {
-      "xmws5": {
-        "version": "0.8.4",
-        "file_name": "downloads/trial/descend100-watch-s5-0.8.4.rpk",
-        "versionCode": 19,
-        "updatelogs": [
-          {
-            "version": "0.8.4",
-            "content": "新增Xiaomi Watch S5的480×480圆屏适配，HUD和按钮避开圆形边缘。\n支持倾斜与触控，保留无限下降、暂停重开、本地纪录和直接退出。\n仅完成官方Vela通用镜像对应尺寸的原生模拟器验证，未进行Xiaomi Watch S5真机测试；安装、倾斜方向、亮屏、帧率及耗电需用户反馈。"
-          }
-        ]
-      }
-    }
-  }
+  "ext": {}
 }
