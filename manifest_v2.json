@@ -3,7 +3,7 @@
     "id": "com.jpf.wrist.descend100",
     "restype": "quick_app",
     "name": "下100层",
-    "description": "倾斜手腕或触控左右移动的竖井速降小游戏。在普通、移动、易碎和传送平台之间寻找落脚点，躲开尖刺与不断逼近的天花板。无限下降，100层之后继续挑战，每25层有里程碑提示，难度逐渐增加后封顶。支持暂停、重开、本地最高层数和游玩次数记录。免费、离线可玩，无广告、无内购。\n\n0.8.4更新：\n• 新增REDMI Watch 5/6适配，432×514专用触控包；当前版本仅提供触控操控。\n• 新增Xiaomi Watch S5适配，480×480圆屏，支持倾斜和触控，菜单、HUD与退出按钮避开圆形边缘。\n• 修复小米手环9/10/11窄屏结算页“用时”和“死因”显示不全。\n• 小米手环9 Pro缩小游戏背景纹理、清理无用旧资源并加强退出清理；保留玩法、人物、平台、透明图标和稳定的首页背景。\n\n机型版本：小米手环9 Pro、9标准版、10/11（含NFC版）、REDMI Watch 5/6和Xiaomi Watch S5为0.8.4；小米手环10 Pro保留已适配的0.8.3专用包。\n\n验证范围：0.8.4已由作者在小米手环9 Pro实机试玩确认；其余机型仅使用官方Vela通用开发镜像按对应尺寸完成原生模拟器验证，未进行对应机型真机测试。实际安装兼容性、倾斜方向、亮屏、帧率及耗电仍需用户反馈。保留原包名、签名和存档格式，可覆盖更新。",
+    "description": "倾斜手腕或触控左右移动的竖井速降小游戏。在普通、移动、易碎、传送和弹簧跳板之间寻找落脚点，躲开尖刺与不断逼近的天花板。无限下降，100 层之后继续挑战，每 25 层有里程碑提示。支持暂停、重开、本地最高层数和游玩次数记录。免费、离线可玩，无广告、无内购。\n\n0.9.4 更新：\n• 新增弹簧跳板，踩上后会向上弹起；留意天花板并及时移动。\n• 优化场景滚动和屏幕外平台计算，降低游玩过程中的部分负载。\n• 全部已支持机型同步更新；REDMI Watch 5/6 使用触控操控。\n\n验证范围：0.9.4 已在小米手环 9 Pro 实机试玩；其他机型使用对应尺寸的 Vela 通用模拟器验证，实际兼容性、倾斜方向、帧率和耗电仍欢迎反馈。保留原包名、签名和存档格式。",
     "preview": [
       "media/preview-home.png",
       "media/preview-pause.png",
@@ -27,10 +27,14 @@
   "links": [],
   "downloads": {
     "xmb9p": {
-      "version": "0.8.4",
-      "file_name": "downloads/descend100-band9pro-memory-0.8.4.rpk",
-      "versionCode": 19,
+      "version": "0.9.4",
+      "file_name": "downloads/descend100-band9pro-perf-0.9.4.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.9.4",
+          "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原有操控与存档。此版本已由作者在米环 9 Pro 真机试玩。"
+        },
         {
           "version": "0.8.4",
           "content": "缩小游戏背景纹理、清理无用旧资源，加强退出清理，降低图片内存和安装包负担。\n保留玩法、人物、平台、图标和稳定的首页背景。\n保留包名、签名和存档格式；0.8.4已由作者在小米手环9 Pro实机试玩确认。"
@@ -50,10 +54,14 @@
       ]
     },
     "xmb10": {
-      "version": "0.8.4",
-      "file_name": "downloads/descend100-band10-11-0.8.4.rpk",
-      "versionCode": 19,
+      "version": "0.9.4",
+      "file_name": "downloads/ns100-band10-11-0.9.4.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.9.4",
+          "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。"
+        },
         {
           "version": "0.8.4",
           "content": "修复窄屏结算页“用时”和“死因”出屏、看不全的问题。\n保留本机型布局、圆弧安全区、操控和存档。\n仅完成官方Vela通用镜像对应尺寸的原生模拟器验证，未进行对应机型真机测试。"
@@ -69,10 +77,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "0.8.4",
-      "file_name": "downloads/descend100-band10-11-0.8.4.rpk",
-      "versionCode": 19,
+      "version": "0.9.4",
+      "file_name": "downloads/ns100-band10-11-0.9.4.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.9.4",
+          "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。"
+        },
         {
           "version": "0.8.4",
           "content": "修复窄屏结算页“用时”和“死因”出屏、看不全的问题。\n保留本机型布局、圆弧安全区、操控和存档。\n仅完成官方Vela通用镜像对应尺寸的原生模拟器验证，未进行对应机型真机测试。"
@@ -88,10 +100,14 @@
       ]
     },
     "xmb11": {
-      "version": "0.8.4",
-      "file_name": "downloads/descend100-band10-11-0.8.4.rpk",
-      "versionCode": 19,
+      "version": "0.9.4",
+      "file_name": "downloads/ns100-band10-11-0.9.4.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.9.4",
+          "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。"
+        },
         {
           "version": "0.8.4",
           "content": "修复窄屏结算页“用时”和“死因”出屏、看不全的问题。\n保留本机型布局、圆弧安全区、操控和存档。\n仅完成官方Vela通用镜像对应尺寸的原生模拟器验证，未进行对应机型真机测试。"
@@ -107,10 +123,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "0.8.4",
-      "file_name": "downloads/descend100-band10-11-0.8.4.rpk",
-      "versionCode": 19,
+      "version": "0.9.4",
+      "file_name": "downloads/ns100-band10-11-0.9.4.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.9.4",
+          "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。"
+        },
         {
           "version": "0.8.4",
           "content": "修复窄屏结算页“用时”和“死因”出屏、看不全的问题。\n保留本机型布局、圆弧安全区、操控和存档。\n仅完成官方Vela通用镜像对应尺寸的原生模拟器验证，未进行对应机型真机测试。"
@@ -126,10 +146,14 @@
       ]
     },
     "xmb10p": {
-      "version": "0.8.3",
-      "file_name": "downloads/descend100-band10pro-0.8.3.rpk",
-      "versionCode": 18,
+      "version": "0.9.4",
+      "file_name": "downloads/ns100-band10pro-0.9.4.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.9.4",
+          "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。"
+        },
         {
           "version": "0.8.3",
           "content": "同步0.8.3绘制与帧调度优化。\n重做透明背景的手环图标，保留人物、右下角平台和向下箭头。\n统一开始界面背景，修复首次打开和返回首页时的白色横纹及残留平台；保留该机型布局、安全区和操控回退。\n保留包名、签名和存档格式。仅完成对应尺寸的官方Vela通用镜像原生模拟器验证，未进行该机型真机测试。"
@@ -141,10 +165,14 @@
       ]
     },
     "xmb9": {
-      "version": "0.8.4",
-      "file_name": "downloads/descend100-band9-0.8.4.rpk",
-      "versionCode": 19,
+      "version": "0.9.4",
+      "file_name": "downloads/ns100-band9-0.9.4.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.9.4",
+          "content": "新增弹簧跳板；优化墙壁滚动和屏幕外平台计算。保留窄屏布局、退出方式及存档。本机型仅完成对应尺寸模拟器测试，欢迎反馈真机表现。"
+        },
         {
           "version": "0.8.4",
           "content": "修复窄屏结算页“用时”和“死因”出屏、看不全的问题。\n保留本机型布局、圆弧安全区、操控和存档。\n仅完成官方Vela通用镜像对应尺寸的原生模拟器验证，未进行对应机型真机测试。"
@@ -160,10 +188,14 @@
       ]
     },
     "xmrw5": {
-      "version": "0.8.4",
-      "file_name": "downloads/descend100-redmi-watch5-6-0.8.4.rpk",
-      "versionCode": 19,
+      "version": "0.9.4",
+      "file_name": "downloads/ns100-redmi-watch5-6-0.9.4.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.9.4",
+          "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。 本机型使用触控操控。"
+        },
         {
           "version": "0.8.4",
           "content": "新增REDMI Watch 5/6的432×514专用适配，当前版本仅提供触控操控。\n重排菜单、HUD、结算卡片和退出按钮；保留无限下降、暂停重开及本地纪录。\n仅完成官方Vela通用镜像对应尺寸的原生模拟器验证，未进行REDMI Watch 5/6真机测试；兼容性、帧率及耗电需用户反馈。"
@@ -171,10 +203,14 @@
       ]
     },
     "xmrw6": {
-      "version": "0.8.4",
-      "file_name": "downloads/descend100-redmi-watch5-6-0.8.4.rpk",
-      "versionCode": 19,
+      "version": "0.9.4",
+      "file_name": "downloads/ns100-redmi-watch5-6-0.9.4.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.9.4",
+          "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。 本机型使用触控操控。"
+        },
         {
           "version": "0.8.4",
           "content": "新增REDMI Watch 5/6的432×514专用适配，当前版本仅提供触控操控。\n重排菜单、HUD、结算卡片和退出按钮；保留无限下降、暂停重开及本地纪录。\n仅完成官方Vela通用镜像对应尺寸的原生模拟器验证，未进行REDMI Watch 5/6真机测试；兼容性、帧率及耗电需用户反馈。"
@@ -182,10 +218,14 @@
       ]
     },
     "xmws5": {
-      "version": "0.8.4",
-      "file_name": "downloads/descend100-watch-s5-0.8.4.rpk",
-      "versionCode": 19,
+      "version": "0.9.4",
+      "file_name": "downloads/ns100-watch-s5-0.9.4.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.9.4",
+          "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。"
+        },
         {
           "version": "0.8.4",
           "content": "新增Xiaomi Watch S5的480×480圆屏适配，HUD和按钮避开圆形边缘。\n支持倾斜与触控，保留无限下降、暂停重开、本地纪录和直接退出。\n仅完成官方Vela通用镜像对应尺寸的原生模拟器验证，未进行Xiaomi Watch S5真机测试；安装、倾斜方向、亮屏、帧率及耗电需用户反馈。"
