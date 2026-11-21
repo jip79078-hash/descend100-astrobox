@@ -165,10 +165,14 @@
       ]
     },
     "xmb9": {
-      "version": "0.9.4",
-      "file_name": "downloads/ns100-band9-0.9.4.rpk",
-      "versionCode": 23,
+      "version": "0.9.5",
+      "file_name": "downloads/ns100-band9-0.9.5.rpk",
+      "versionCode": 24,
       "updatelogs": [
+        {
+          "version": "0.9.5",
+          "content": "根据玩家反馈，缩小了小米手环 9 标准版应用列表中的游戏图标，保留角色、方块和向下箭头。"
+        },
         {
           "version": "0.9.4",
           "content": "新增弹簧跳板；优化墙壁滚动和屏幕外平台计算。保留窄屏布局、退出方式及存档。本机型仅完成对应尺寸模拟器测试，欢迎反馈真机表现。"
