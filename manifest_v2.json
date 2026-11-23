@@ -27,10 +27,14 @@
   "links": [],
   "downloads": {
     "xmb9p": {
-      "version": "0.9.4",
-      "file_name": "downloads/descend100-band9pro-perf-0.9.4.rpk",
-      "versionCode": 23,
+      "version": "0.9.6",
+      "file_name": "downloads/ns100-band9pro-0.9.6.rpk",
+      "versionCode": 25,
       "updatelogs": [
+        {
+          "version": "0.9.6",
+          "content": "修复触控模式下快速左右换向时人物偶尔停住的问题。换向后松开先按的一侧，人物会继续向仍按住的一侧移动。"
+        },
         {
           "version": "0.9.4",
           "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原有操控与存档。此版本已由作者在米环 9 Pro 真机试玩。"
@@ -54,10 +58,14 @@
       ]
     },
     "xmb10": {
-      "version": "0.9.4",
-      "file_name": "downloads/ns100-band10-11-0.9.4.rpk",
-      "versionCode": 23,
+      "version": "0.9.6",
+      "file_name": "downloads/ns100-band10-11-0.9.6.rpk",
+      "versionCode": 25,
       "updatelogs": [
+        {
+          "version": "0.9.6",
+          "content": "修复触控模式下快速左右换向时人物偶尔停住的问题。换向后松开先按的一侧，人物会继续向仍按住的一侧移动。"
+        },
         {
           "version": "0.9.4",
           "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。"
@@ -77,10 +85,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "0.9.4",
-      "file_name": "downloads/ns100-band10-11-0.9.4.rpk",
-      "versionCode": 23,
+      "version": "0.9.6",
+      "file_name": "downloads/ns100-band10-11-0.9.6.rpk",
+      "versionCode": 25,
       "updatelogs": [
+        {
+          "version": "0.9.6",
+          "content": "修复触控模式下快速左右换向时人物偶尔停住的问题。换向后松开先按的一侧，人物会继续向仍按住的一侧移动。"
+        },
         {
           "version": "0.9.4",
           "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。"
@@ -100,10 +112,14 @@
       ]
     },
     "xmb11": {
-      "version": "0.9.4",
-      "file_name": "downloads/ns100-band10-11-0.9.4.rpk",
-      "versionCode": 23,
+      "version": "0.9.6",
+      "file_name": "downloads/ns100-band10-11-0.9.6.rpk",
+      "versionCode": 25,
       "updatelogs": [
+        {
+          "version": "0.9.6",
+          "content": "修复触控模式下快速左右换向时人物偶尔停住的问题。换向后松开先按的一侧，人物会继续向仍按住的一侧移动。"
+        },
         {
           "version": "0.9.4",
           "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。"
@@ -123,10 +139,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "0.9.4",
-      "file_name": "downloads/ns100-band10-11-0.9.4.rpk",
-      "versionCode": 23,
+      "version": "0.9.6",
+      "file_name": "downloads/ns100-band10-11-0.9.6.rpk",
+      "versionCode": 25,
       "updatelogs": [
+        {
+          "version": "0.9.6",
+          "content": "修复触控模式下快速左右换向时人物偶尔停住的问题。换向后松开先按的一侧，人物会继续向仍按住的一侧移动。"
+        },
         {
           "version": "0.9.4",
           "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。"
@@ -146,10 +166,14 @@
       ]
     },
     "xmb10p": {
-      "version": "0.9.4",
-      "file_name": "downloads/ns100-band10pro-0.9.4.rpk",
-      "versionCode": 23,
+      "version": "0.9.6",
+      "file_name": "downloads/ns100-band10pro-0.9.6.rpk",
+      "versionCode": 25,
       "updatelogs": [
+        {
+          "version": "0.9.6",
+          "content": "修复触控模式下快速左右换向时人物偶尔停住的问题。换向后松开先按的一侧，人物会继续向仍按住的一侧移动。"
+        },
         {
           "version": "0.9.4",
           "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。"
@@ -165,10 +189,14 @@
       ]
     },
     "xmb9": {
-      "version": "0.9.5",
-      "file_name": "downloads/ns100-band9-0.9.5.rpk",
-      "versionCode": 24,
+      "version": "0.9.6",
+      "file_name": "downloads/ns100-band9-0.9.6.rpk",
+      "versionCode": 25,
       "updatelogs": [
+        {
+          "version": "0.9.6",
+          "content": "修复触控模式下快速左右换向时人物偶尔停住的问题。换向后松开先按的一侧，人物会继续向仍按住的一侧移动。"
+        },
         {
           "version": "0.9.5",
           "content": "根据玩家反馈，缩小了小米手环 9 标准版应用列表中的游戏图标，保留角色、方块和向下箭头。"
@@ -192,10 +220,14 @@
       ]
     },
     "xmrw5": {
-      "version": "0.9.4",
-      "file_name": "downloads/ns100-redmi-watch5-6-0.9.4.rpk",
-      "versionCode": 23,
+      "version": "0.9.6",
+      "file_name": "downloads/ns100-redmi-watch5-6-0.9.6.rpk",
+      "versionCode": 25,
       "updatelogs": [
+        {
+          "version": "0.9.6",
+          "content": "修复触控模式下快速左右换向时人物偶尔停住的问题。换向后松开先按的一侧，人物会继续向仍按住的一侧移动。"
+        },
         {
           "version": "0.9.4",
           "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。 本机型使用触控操控。"
@@ -207,10 +239,14 @@
       ]
     },
     "xmrw6": {
-      "version": "0.9.4",
-      "file_name": "downloads/ns100-redmi-watch5-6-0.9.4.rpk",
-      "versionCode": 23,
+      "version": "0.9.6",
+      "file_name": "downloads/ns100-redmi-watch5-6-0.9.6.rpk",
+      "versionCode": 25,
       "updatelogs": [
+        {
+          "version": "0.9.6",
+          "content": "修复触控模式下快速左右换向时人物偶尔停住的问题。换向后松开先按的一侧，人物会继续向仍按住的一侧移动。"
+        },
         {
           "version": "0.9.4",
           "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。 本机型使用触控操控。"
@@ -222,10 +258,14 @@
       ]
     },
     "xmws5": {
-      "version": "0.9.4",
-      "file_name": "downloads/ns100-watch-s5-0.9.4.rpk",
-      "versionCode": 23,
+      "version": "0.9.6",
+      "file_name": "downloads/ns100-watch-s5-0.9.6.rpk",
+      "versionCode": 25,
       "updatelogs": [
+        {
+          "version": "0.9.6",
+          "content": "修复触控模式下快速左右换向时人物偶尔停住的问题。换向后松开先按的一侧，人物会继续向仍按住的一侧移动。"
+        },
         {
           "version": "0.9.4",
           "content": "新增弹簧跳板，优化场景滚动及屏幕外平台计算；保留原布局、退出方式和存档。本机型仅完成对应尺寸模拟器验证，欢迎反馈真机表现。"
